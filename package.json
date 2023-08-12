@@ -1,0 +1,21 @@
+{
+  "name": "fever-dream-color-theme",
+  "displayName": "fever-dream-color-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "fever dream",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fever-dream-color-theme.json"
+      }
+    ]
+  }
+}
